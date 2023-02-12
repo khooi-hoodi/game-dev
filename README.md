@@ -1,6 +1,6 @@
 # game-dev
 
-## Basic Commands
+### Basic Commands
 
 `cd [directory]` Go to said directory
 
